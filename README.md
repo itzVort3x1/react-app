@@ -2,6 +2,8 @@
 
 This is a React Application with Search implementation and API calls.
 
+> App Status: Under Build, Coming Soon!
+
 ## Available Scripts
 
 In the project directory, you can run:
