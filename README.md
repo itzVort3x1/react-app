@@ -1,3 +1,7 @@
+# About App
+
+This is a React Application with Search implementation and API calls.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
