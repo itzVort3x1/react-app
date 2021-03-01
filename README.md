@@ -1,8 +1,12 @@
 # About App
 
-This is a React Application with Search implementation and API calls.
+This is a React Application with Search implementation and API calls. Where you can search for any photos you want!
 
-> App Status: Under Build, Coming Soon!
+# How to use
+1. Create an account on [unsplash](https://unsplash.com/)
+2. Copy the the access key from the website.
+3. and place that access key in unsplash.js file in place of the ACCESS_KEY, as shown below!
+4. `Authorization: 'Client-ID ACCESS_KEY'`
 
 ## Available Scripts
 
