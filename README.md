@@ -8,6 +8,11 @@ This is a React Application with Search implementation and API calls. Where you 
 3. and place that access key in unsplash.js file in place of the ACCESS_KEY, as shown below!
 4. `Authorization: 'Client-ID ACCESS_KEY'`
 
+# ScreenShots
+
+<img src="https://i.ibb.co/Jyh6pQ6/ss1.jpg" width=400px>
+<img src="https://i.ibb.co/BqPxCwj/ss2.jpg" width=400px>
+
 ## Available Scripts
 
 In the project directory, you can run:
